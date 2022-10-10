@@ -49,6 +49,7 @@ public class Main {
                 break;
             default:
                 isError=true;
+                break;
         }
         if(isError==true) {
             System.out.print("Hatalı giriş yaptınız");
